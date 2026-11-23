@@ -1,0 +1,7 @@
+# Sons Sonniss GDC : licence qui interdit la redistribution publique des fichiers bruts
+sonniss/
+
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

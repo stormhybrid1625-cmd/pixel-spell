@@ -1,0 +1,62 @@
+{
+  "vortex": {
+    "frames": 8,
+    "size": 64,
+    "loop": true,
+    "fps": 12
+  },
+  "gas": {
+    "frames": 8,
+    "size": 64,
+    "loop": true,
+    "fps": 8
+  },
+  "saw": {
+    "frames": 4,
+    "size": 32,
+    "loop": true,
+    "fps": 20
+  },
+  "teleport": {
+    "frames": 8,
+    "size": 64,
+    "loop": false,
+    "fps": 16
+  },
+  "shield": {
+    "frames": 6,
+    "size": 64,
+    "loop": true,
+    "fps": 10
+  },
+  "firering": {
+    "frames": 6,
+    "size": 64,
+    "loop": true,
+    "fps": 10
+  },
+  "mine": {
+    "frames": 2,
+    "size": 16,
+    "loop": true,
+    "fps": 4
+  },
+  "flame": {
+    "frames": 8,
+    "size": 32,
+    "loop": true,
+    "fps": 12
+  },
+  "shock": {
+    "frames": 8,
+    "size": 32,
+    "loop": true,
+    "fps": 16
+  },
+  "bark": {
+    "frames": 1,
+    "size": 32,
+    "loop": false,
+    "fps": 1
+  }
+}
